@@ -1,0 +1,1238 @@
+
+@media only screen and (max-width: 1536px) and (min-width: 1440px){
+    nav ul{
+        margin: 15px 0px 0px 416px;
+    }
+    .logo{
+        width: 12%;
+        height: 64%;
+        top: 13%;
+    }
+    .pillar1{
+        margin: 19px 23px 0px -130px;
+    }
+    .pillar2{
+        margin: 19px 23px 0px -13px;
+    }
+   
+    .pillar3{
+        margin: 10px -65px -9px -10px;
+    }
+    .pillar4{
+        margin: 10px -56px -6px 75px;
+    }
+    .container3{
+        width: 27%;
+        margin: 587px 0px 0px 995px;
+    }
+    .container4{
+        width: 98%;
+        margin: 689px 0px 0px 12px;
+
+    }
+    .subject1{
+        margin: 89px 10px 10px 80px;
+    }
+    .subject2{
+        margin: -441px 10px 10px 516px;
+    }
+    .star2{
+        margin: -103px 10px 10px 544px;
+    }
+    .rating2{
+        margin: -30px 10px 10px 646px;
+    }
+    .subject3{
+        margin: -787px 10px 10px 965px;
+    }
+   
+} 
+@media only screen and (max-width: 1440px) and (min-width: 1421px){
+    header{
+        margin: -102px 22px 15px -75px;
+    }
+    .logo{
+        width: 12%;
+height: 64%;
+top: 13%;
+left: 7%;
+    }
+    .container{
+        min-height: 423vh;
+    }
+    .slider{
+        width: 92%;
+    }
+    .top{
+        margin: 49px 10px 10px 673px;
+    }
+    h1{
+        margin: 25px 10px 10px 588px;
+        font-size: 45px;
+        
+    }
+    .courses{
+        margin: 48px 10px 0px -2px;
+    }
+    .pillar1{
+        margin: 19px 12px 0px -41px;
+        min-height: 70vh;
+    }
+    .pillar2{
+        min-height: 70vh;
+        margin: 19px 12px 0px 10px;
+    }
+    .Selfdevelopment{
+        width: 222px;
+    }
+    .pillar3{
+        min-height: 70vh;
+        margin: 10px -77px -9px 6px;
+    }
+    .EssentialAcademics{
+        width: 246px;
+    }
+    .pillar4{
+        min-height: 70vh;
+    }
+    .container3{
+        width: 29%;
+        margin: 614px 0px 0px 995px;
+    }
+    footer{
+        min-height: 66vh;
+    }
+    .op1{
+        margin: -516px 10px 10px 630px;
+    }
+    .op2{
+        margin: -63px 10px 10px 904px;
+    }
+    .op3{
+        margin: -63px 10px 10px 1136px;
+    }
+    .tp1{
+        margin: 10px 10px 10px 1138px;
+    }
+    .inpt{
+        margin: 10px 10px 10px 1140px;
+    }
+    .btn22{
+        margin: 10px 10px 10px 1169px;
+    }
+    .copyright{
+        margin: 383px 10px 10px 621px;
+    }
+
+
+}
+@media only screen and (max-width: 1421px) and (min-width: 1420px){
+    .pillar1{
+        width: 300px;
+    }
+    .im1{
+        width: 300px;
+    }
+    .content1{
+        width: 265px;
+        margin: -112px 27px;
+    }
+    .pillar2{
+        width: 300px;
+    }
+    .im2{
+        width: 300px;
+    }
+    .pillar3{
+        width: 300px;
+    }
+    .im3{
+        width: 300px;
+    }
+    .pillar4{
+        width: 300px;
+    }
+    .im4{
+        width: 300px;
+    }
+    .container2{
+        width: 28%;
+    }
+    .container3{
+        width: 25%;
+margin: 596px 0px 0px 970px;
+font-size: 32px;
+    }
+
+}
+@media only screen and (max-width: 1420px) and (min-width: 1400px){
+    .rg{
+        margin: 4px 10px 10px 98px;
+    }
+    .ft1{
+        margin: -175px 10px 10px 99px;
+    }
+    .ft2{
+        margin: 5px 10px 10px 107px;
+    }
+    .ft3{
+        margin: 10px 10px 10px 99px;
+    }
+    .ft4{
+        margin: 10px 10px 10px 94px;
+    }
+    .op1{
+        margin: -510px 10px 10px 508px;
+    }
+    .op2{
+        margin: -63px 10px 10px 800px;
+    }
+    .op3{
+        margin: -63px 10px 10px 1027px;
+    }
+    .tp1{
+        margin: 10px 10px 10px 1027px;
+    }
+    .inpt{
+        margin: 10px 10px 10px 1026px;
+    }
+    .btn22{
+        margin: 10px 10px 10px 1059px;
+    }
+    .copyright{
+        margin: 289px 10px 10px 670px;
+    }
+}
+
+
+@media only screen and (max-width: 1400px) and (min-width: 1367px){
+   
+    nav{
+        width: 50%;
+
+    }
+    .top{
+        margin: 30px 10px 10px 589px;
+    }
+    h1{
+        margin: 20px 10px 10px 463px;
+        width: 36%;
+    }
+   
+    .container2 {
+        width: 30%;
+    }
+}
+@media only screen and (max-width: 1367px) and (min-width: 1331px){
+    .top{
+        margin: 49px 10px 10px 630px;
+    }
+    h1{
+        margin: 23px 10px 10px 553px;
+        font-size: 43px;
+    }
+    .courses{
+        margin: 48px 10px 0px 8px;
+    }
+    .pillar1{
+        margin: 19px -2px 0px -58px;
+        min-height: 81vh;
+    }
+   
+    .pillar2{
+        margin: 19px 1px 0px 10px;
+        min-height: 81vh;
+    }
+    .Selfdevelopment{
+        width: 218px;
+    }
+    .pillar3{
+        margin: 10px -90px -9px 6px;
+        min-height: 81vh;
+    }
+    .pillar4{
+        
+        min-height: 81vh;
+    }
+    .EssentialAcademics{
+        width: 246px;
+    }
+    .container3{
+        width: 28%;
+        margin: 671px 0px 0px 899px;
+    }
+    .ai{
+        margin: 80px 10px 10px -967px;
+    }
+    .game{
+        margin: 81px -150px 7px 25px;
+    }
+   
+}
+@media only screen and (max-width: 1331px) and (min-width: 1304px){
+    h1{
+        width: 38%;
+    }  
+    .pillar1{
+        margin: 19px 23px 0px -62px;
+
+      }
+    .container2 {
+        width: 30%;
+        margin: 99px 0px 0px 877px;
+    }
+    .c2{
+        margin: 19px 10px 10px -768px;
+    }
+    .words1{
+        margin: -434px 0px 0px -8px;
+    }
+    .container3{
+        width: 27%;
+        margin: 567px 0px 0px 883px;
+    }
+    .ai{
+        margin: 80px 10px 10px -1127px;
+    }
+    .game{
+        margin: 81px -175px 7px 20px;
+    }
+    .words2{
+        margin: 32px 10px 10px 399px;
+    }
+    .container4{
+        width: 96%;
+        margin: 689px 0px 0px 26px;
+    }
+    .ct1{
+        margin: 8px -18px -2px 521px;
+    }
+    .ct2{
+        margin: -26px 10px 10px 383px;
+    }
+    .subject1{
+        margin: 89px 10px 10px 22px;
+    }
+    .subject2{
+        margin: -441px 10px 10px 439px;
+    }
+    .star2{
+        margin: -103px 10px 10px 467px;
+    }
+    .rating2{
+        margin: -30px 10px 10px 567px;
+    }
+    .subject3{
+        margin: -787px 10px 10px 877px;
+    }
+    .one1{
+        margin: 238px 267px;
+    }
+    .rg{
+        font-size: 24px;
+        margin: 4px 10px 10px 81px;
+    }
+    .ft1{
+        font-size: 16px;
+        margin: -175px 10px 10px 81px;
+    }
+    .ft2{
+        font-size: 16px;
+        margin: 5px 10px 10px 91px;
+    
+    }
+    .ft3{
+        font-size: 16px;
+        margin: 10px 10px 10px 87px;
+    
+    }
+    .ft4{
+        font-size: 16px;
+        margin: 10px 10px 10px 81px;
+    
+    }
+    .op1{
+        font-size: 24px;
+        margin: -467px 10px 10px 512px;
+    }
+    .oop1{
+        font-size: 16px;
+    }
+    .oop2{
+        font-size: 16px;
+    }
+    .oop3{
+        font-size: 16px;
+    }
+    .oop4{
+        font-size: 16px;
+    }
+    .oop5{
+        font-size: 16px;
+    }
+    .oop6{
+        font-size: 16px;
+    }
+    .op2{
+        margin: -63px 10px 10px 783px;
+font-size: 24px;
+    }
+    .pp1{
+        font-size: 16px;
+    }
+    .pp2{
+        font-size: 16px;
+    }
+    .pp3{
+        font-size: 16px;
+    }
+    .pp4{
+        font-size: 16px;
+    }
+    .pp5{
+        font-size: 16px;
+    }
+    .pp6{
+        font-size: 16px;
+    }
+    .op3{
+        margin: -63px 10px 10px 999px;
+font-size: 24px;
+    }
+    .tp1{
+        margin: 10px 10px 10px 981px;
+        font-size: 16px;
+    }
+    .inpt{
+        margin: 10px 10px 10px 980px;
+        font-size: 18px;
+    }
+    .btn22{
+        margin: 10px 10px 10px 1009px;
+    }
+    .copyright{
+        margin: 370px 10px 10px 574px;
+    }
+}
+
+@media only screen and (max-width: 1304px){
+    .container{
+        min-height: 660vh;
+    }
+    
+    h1{
+        margin: 20px 10px 10px 463px;
+width: 40%;
+
+    }.pillar1{
+        margin: 19px -3px 0px -62px;
+    }
+    .pillar2{
+        margin: 19px 0px 0px 10px;
+    }
+    .pillar3{
+        margin: 10px -91px -9px 6px;
+    }
+    .pillar4{
+        margin: 10px -56px -6px 97px;
+    }
+
+
+}
+@media only screen and (max-width: 1367px) and (min-width: 1240px){
+    .container2{
+        margin: 99px 0px 0px 890px;
+    }
+    .container4{
+        width: 97%;
+        margin: 689px 0px 0px 18px;
+    }
+    .ct1{
+        margin: 8px -18px -2px 560px;
+    }
+    .ct2{
+        margin: -26px 10px 10px 406px;
+    }
+    .subject1{
+        margin: 89px 10px 10px 48px;
+    }
+    .subject2{
+        margin: -441px 10px 10px 481px;
+    }
+    .star2{
+        margin: -103px 10px 10px 509px;
+    }
+    .rating2{
+        margin: -30px 10px 10px 609px;
+    }
+    .subject3{
+        margin: -787px 10px 10px 917px;
+    }
+    .btnB{
+        margin: 138px 10px 10px 522px;
+    }
+    .one1{
+        margin: 238px 271px;
+    }
+    .rg{
+        margin: 4px 10px 10px 64px;
+        font-size: 24px;
+    }
+    .ft1{
+        font-size: 16px;
+        margin: -175px 10px 10px 65px;
+    }
+    .ft2{
+        font-size: 16px;
+        margin: 5px 10px 10px 75px;
+    }
+    .ft3{
+        font-size: 16px;
+        margin: 10px 10px 10px 71px;
+    }
+    .ft4{
+        font-size: 16px;
+        margin: 10px 10px 10px 67px;
+    }
+    .op1{
+        margin: -466px 10px 10px 498px;
+font-size: 24px;
+    }
+    .oop1{
+        font-size: 16px;
+    }
+    .oop2{
+        font-size: 16px;
+    }
+    .oop3{
+        font-size: 16px;
+    }
+    .oop4{
+        font-size: 16px;
+    }
+    .oop5{
+        font-size: 16px;
+    }
+    .oop6{
+        font-size: 16px;
+    }
+    .op2{
+        margin: -63px 10px 10px 768px;
+font-size: 24px;
+    }
+    .pp1{
+        font-size: 16px;
+    }
+    .pp2{
+        font-size: 16px;
+    }
+    .pp3{
+        font-size: 16px;
+    }
+    .pp4{
+        font-size: 16px;
+    }
+    .pp5{
+        font-size: 16px;
+    }
+    .pp6{
+        font-size: 16px;
+    }
+    .op3{
+        margin: -63px 10px 10px 956px;
+font-size: 24px;
+    }
+    .tp1{
+        margin: 10px 10px 10px 958px;
+        font-size: 16px;
+    }
+    .inpt{
+        margin: 10px 10px 10px 955px;
+    }
+    .btn22{
+        margin: 10px 10px 10px 987px;
+    }
+    .copyright{
+        margin: 377px 10px 10px 581px;
+    }
+
+}
+@media only screen and (max-width: 1240px) and (min-width: 1230px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+
+    .logo{
+        width: 10%;
+height: 53%;
+top: 17%;
+    }
+    nav {
+       margin: 15px 0px 0px -190px;
+    }
+    .container{
+        min-height: 552vh;
+    }
+    .top{
+        margin: 10px 10px 10px 569px; 
+    }
+    h1{
+        font-size: 59px; 
+    }
+    .pillar1{
+       
+        width: 260px;
+        min-height: 60vh;
+
+    }
+    .pillar2{
+       
+        width: 260px;
+        min-height: 60vh;
+    }
+    .pillar3{
+       
+        width: 260px;
+        min-height: 60vh;
+    }
+    .pillar4{
+        
+        width: 260px;
+        min-height: 60vh;
+    }
+    .im1{
+        width: 260px;
+    }
+    .im2{
+        width: 260px;
+    }
+    .im3{
+        width: 260px;
+    }
+    .im4{
+        width: 260px;
+    }
+    .content1{
+        width: 220px;
+margin: -125px 27px;
+    }
+    .content2{
+        width: 220px;
+margin: -112px 40px;
+    }
+    .btn1{
+        margin:111px 0px 0px 71px;
+    }
+    .lifelearning{
+        font-size: 24px;
+
+    }
+    .Selfdevelopment{
+        font-size: 24px;
+
+    }
+    .EssentialAcademics{
+        font-size: 24px;
+
+    }
+    .CareerAspirations{
+        font-size: 24px;
+
+    }
+    .container2{
+        width: 27%;
+        font-size: 34px;
+        margin: 99px 0px 0px 892px;
+    }
+    .container3{
+        width: 24%;
+margin: 678px 0px 0px 891px;
+font-size: 29px;
+height: 89px;
+    }
+    .ai{
+        margin: 80px 10px 10px -1005px;
+    }
+    .game{
+        margin: 80px -175px 7px 13px;
+
+    }
+    .social{
+        margin: 347px -41px 0px -442px;
+    }
+    .books{
+        margin: 351px -247px 0px 66px;
+    }
+    .words2{
+        margin: 57px 10px 10px 398px;
+        width: 272px;
+    }
+    .container4{
+        width: 97%;
+        margin: 823px 0px 0px 19px;
+    }
+    .ct1{
+        margin: 8px -18px -2px 538px;
+        font-size: 24px;
+
+    }
+    .ct2{
+        margin: -26px 10px 10px 388px;
+    }
+    .subject1{
+        width: 370px;
+        margin: 89px 10px 10px 22px;
+
+    }
+    .course1{
+        width: 370px;
+    }
+    .subject2{
+        margin: -441px 10px 10px 410px;
+width: 370px;
+    }
+    .course2{
+        width: 370px;
+    }
+    .star2{
+        margin: -112px 10px 10px 432px;
+    }
+    .rating2{
+        margin: -30px 10px 10px 531px;
+    }
+    .subject3{
+        margin: -787px 10px 10px 815px;
+width: 370px;
+    }
+    .course3{
+        width: 370px;
+    }
+    .btnB{
+        margin: 138px 10px 10px 450px;
+    }
+    .one1{
+        margin: 289px 211px;
+    }
+    .rg{
+        margin: 4px 10px 10px 67px;
+    }
+    .ft1{
+        margin: -175px 10px 10px 68px;
+    }
+    .ft2{
+        margin: 5px 10px 10px 76px;
+    }
+    .ft3{
+        margin: 10px 10px 10px 71px;
+    }
+    .ft4{
+        margin: 10px 10px 10px 67px;
+    }
+    .op1{
+        margin: -516px 10px 10px 478px;
+    }
+    .op2{
+        margin: -63px 10px 10px 740px;
+    }
+    .op3{
+        margin: -63px 10px 10px 942px;
+    }
+    .tp1{
+        margin: 10px 10px 10px 942px;
+        font-size: 16px
+    }
+    .inpt{
+        margin: 10px 10px 10px 939px;
+    }
+    .btn22{
+        margin: 10px 10px 10px 992px;
+    }
+    .copyright{
+        margin: 495px 10px 10px 526px;
+    }
+
+
+}
+
+
+
+
+@media only screen and (max-width: 1230px) and (min-width: 1086px){
+    .logo{
+        width: 10%;
+height: 51%;
+top: 18%;
+    }
+     ul{
+        margin: 15px 200px 0px 0px;
+    }
+    .top{
+        margin: 44px 10px 10px 548px;
+    }
+    h1{
+        margin: 44px 10px 10px 467px;
+        width: 48%;
+        font-size: 48px;
+
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 1086px) and (min-width: 1087px){
+    .pillar1{
+        width: 196px;
+min-height: 50vh;
+margin: 19px 23px 0px -51px;
+
+    }
+    .im1{
+        width: 196px;
+height: 20vh;
+    }
+    .lifelearning{
+        font-size: 19px;
+        margin: 23px 0px 89px 37px;
+
+    }
+    .content1{
+        width: 160px;
+margin: -164px 27px;
+font-size: 15px;
+    }
+    .btn1{
+        margin: 159px 0px 0px 44px;
+font-size: 11px;
+    }
+    .pillar2{
+        width: 196px;
+min-height: 50vh;
+    }
+    .im2{
+        width: 196px;
+height: 20vh;
+    }
+    .Selfdevelopment{
+        font-size: 19px;
+margin: 25px 0px 114px 22px;
+    }
+    .content2{
+        width: 160px;
+margin: -164px 27px;
+font-size: 15px;
+    }
+    .btn2{
+        margin: 159px 0px 0px 44px;
+        font-size: 11px;
+      }
+      .pillar3{
+        width: 196px;
+min-height: 50vh;
+      }
+      .im3{
+        width: 196px;
+height: 20vh;
+      }
+      .EssentialAcademics{
+        font-size: 19px;
+margin: 25px 0px 114px 27px;
+      }
+      .content3{
+        width: 160px;
+margin: -164px 27px;
+font-size: 15px;
+      }
+      .btn3{
+        margin: 159px 0px 0px 44px;
+font-size: 11px;
+      }
+      .pillar4{
+        width: 196px;
+min-height: 50vh;
+      }
+      .im4{
+        width: 196px;
+height: 20vh;
+      }
+      .CareerAspirations{
+        font-size: 19px;
+margin: 25px 0px 114px 19px;
+      }
+      .content4{
+        width: 160px;
+margin: -164px 27px;
+font-size: 15px;
+      }
+      .btn4{
+        margin: 159px 0px 0px 44px;
+       font-size: 11px;
+      }
+   
+    
+    }
+
+
+
+
+
+@media only screen and (max-width: 1087px) and (min-width: 927px){
+    .top{
+        margin: 44px 10px 10px 494px;
+    }
+    h1{
+        margin: 27px 10px 10px 396px;
+        width: 49%;
+
+    }
+    .container2{
+        margin: 99px 0px 0px 687px;
+        width: 32%;
+font-size: 32px;
+    }
+    .c2{
+        height: 406px;
+width: 500px;
+margin: 82px 10px 10px -635px;
+    }
+    .words1{
+        margin: -481px 0px 0px -8px;
+    }
+    .container3{
+        width: 32%;
+margin: 632px 0px 0px 692px;
+font-size: 25px;
+height: 89px;
+    }
+    .ai{
+        height: 200px;
+width: 250px;
+margin: 244px 68px 0px -781px;
+    }
+    .game{
+        height: 200px;
+width: 250px;
+margin: 242px 7px 0px -40px;
+
+    }
+    .social{
+        height: 200px;
+width: 250px;
+margin: 466px 29px 0px -442px;
+
+    }
+    .books{
+        height: 200px;
+width: 250px;
+margin: 465px -211px 0px -1px;
+    }
+    .words2{
+        margin: 84px 10px 10px 395px;
+    }
+    .container4{
+        width: 97%;
+margin: 710px 0px 0px 19px;
+    }
+    .ct1{
+        margin: 8px -18px -2px 453px;
+font-size: 22px;
+    }
+    .ct2{
+        margin: -26px 10px 10px 293px;
+    }
+    .subject1{
+        width: 330px;
+margin: 89px 10px 10px 22px;
+height: 400px;
+    }
+    .course1{
+        width: 330px;
+    }
+    .c-1{
+        font-size: 20px;
+    }
+    .star1{
+        margin: -40px 10px 10px 27px;
+font-size: 12px;
+    }
+    .ratngi1{
+        margin: -24px 10px 10px 105px;
+        font-size: 12px;
+    }
+    .subject2{
+        margin: -410px 10px 10px 368px;
+width: 330px;
+height: 400px;
+    }
+    .course2{
+        width: 330px;
+    }
+    .c-2{
+        font-size: 20px;
+        padding: 13px 10px 10px 25px;
+    }
+    .star2{
+        margin: -119px 10px 10px 406px;
+font-size: 12px;
+    }
+    .rating2{
+        margin: -24px 10px 10px 486px;
+font-size: 12px;
+    }
+    .subject3{
+        margin: -793px 10px 10px 728px;
+width: 330px;
+height: 400px;
+    }
+    .course3{
+        width: 330px;
+    }
+    .c-3{
+        font-size: 20px;
+        padding: 4px 10px 10px 24px;
+    }
+    .star3{
+        margin: -40px 10px 10px 28px;
+font-size: 12px;
+    }
+    .rating3{
+        margin: -26px 10px 10px 105px;
+
+font-size: 12px;
+    }
+    .one1{
+        margin: 289px 151px;
+    }
+    .rg{
+        margin: 4px 10px 10px 51px;
+        font-size: 23px;
+    }
+    .ft1{
+        margin: -175px 10px 10px 52px;
+        font-size: 15px;
+    }
+    .ft2{
+        margin: 5px 10px 10px 63px;
+        font-size: 15px;
+    }
+    .ft3{
+        margin: 10px 10px 10px 58px;
+        font-size: 15px;
+    }
+    .ft4{
+        margin: 10px 10px 10px 53px;
+        font-size: 15px;
+
+    }
+    .op1{
+        margin: -429px 10px 10px 428px;
+        font-size: 23px;
+
+    }
+    .oop1{
+        font-size: 15px;
+    }
+    .oop2{
+        font-size: 15px;
+    }
+    .oop3{
+        font-size: 15px;
+    }
+    .oop4{
+        font-size: 15px;
+    }
+    .oop5{
+        font-size: 15px;
+    }
+    .oop6{
+        font-size: 15px;
+    }
+    .op2{
+        margin: -63px 10px 10px 630px;
+        font-size: 23px;
+    }
+    .pp1{
+        font-size: 15px;
+    }
+    .pp2{
+        font-size: 15px;
+    }
+    .pp3{
+        font-size: 15px;
+    }
+    .pp4{
+        font-size: 15px;
+    }
+    .pp5{
+        font-size: 15px;
+    }
+    .pp6{
+        font-size: 15px;
+    }
+    .op3{
+        font-size: 23px;
+        margin: -63px 10px 10px 768px;
+    }
+    .tp1{
+        margin: 10px 10px 10px 770px;
+        font-size: 15px;
+      }
+      .inpt{
+        margin: 10px 10px 10px 769px;
+        font-size: 15px;
+      }
+      .btn22{
+        margin: 10px 10px 10px 813px;
+      }
+      .copyright{
+        margin: 495px 10px 10px 463px;
+
+      }
+
+
+    }
+
+@media only screen and (max-width: 1070px) {
+    .content1{
+        margin: -131px 27px;
+font-size: 13px;
+    }
+    .btn1{
+        margin: 86px 0px 0px 44px;
+    }
+    .content2{
+        margin: -119px 27px;
+font-size: 13px;
+    }
+    .btn2{
+        margin: 72px 0px 0px 44px;
+    }
+    .content3{
+        margin: -115px 27px;
+font-size: 13px;
+    }
+    .btn3{
+        margin: 63px 0px 0px 44px;
+    }
+    .content4{
+        margin: -113px 27px;
+font-size: 13px;
+    }
+    .btn{
+        margin: 59px 0px 0px 44px;
+    }
+
+    }
+
+@media only screen and (max-width: 927px) and (min-width: 892px){
+    nav{
+        margin: 10px -119px;
+    }
+    .top{
+        margin: 44px 10px 10px 417px;
+    }
+    h1{
+        margin: 30px 10px 10px 293px;
+        width: 50%;
+      }
+
+    }
+    @media only screen and (max-width: 892px) and (min-width: 800px){
+        .top{
+            margin: 44px 10px 10px 361px;
+        }
+        h1{
+            margin: 26px 10px 10px 222px;
+            width: 53%;
+          }
+          .container3{
+            width: 32%;
+margin: 790px 0px 0px 692px;
+font-size: 28px;
+height: 89px;
+
+          }
+
+
+    }
+
+@media only screen and (max-width: 800px) and (min-width: 762px){
+   nav{
+    height: 100px;
+    display: flex;
+   flex-direction: column;
+    align-items: center;
+   }
+   .top{
+    margin: 66px 10px 10px 337px;
+}
+h1{
+    margin: 34px 10px 10px 235px;
+    width: 58%;
+
+}
+}
+@media only screen and (max-width: 762px) and (min-width: 600px){
+    .top{
+        margin: 66px 10px 10px 303px;
+    }
+    h1{
+        margin: 34px 10px 10px 180px;
+width: 72%;
+      }
+}
+@media only screen and (max-width: 600px){
+    header{
+        margin: -215px 22px 15px 0px;
+padding: 0px 140px;
+height: 625px;
+border: 0px solid #fff;
+position: fixed;
+background: #fff;
+box-shadow: 0 0px 3px #949292;
+width: 209%;
+    }
+    nav ul{
+        display: flex;
+flex-direction: column;
+position: absolute;
+left: -16%;
+top: 19%;
+width: 11%;
+    }
+    .logo{
+        position: absolute;
+        left: -145%;
+        width: 67%;
+        height: 13%;
+        top: 2%;
+    }
+    .top{
+        margin: 66px 10px 10px 268px;
+    }
+    h1{
+        margin: 34px 10px 10px 136px;
+        width: 83%;
+    
+    }
+    .courses{
+        flex-direction: column;
+    }
+    .pillar1{
+        margin: 19px 23px 0px 58px;
+    }
+    .pillar2{
+       margin: 19px 23px 0px 64px;
+    }
+    .pillar3{
+        margin: 10px -65px -9px -20px;
+    }
+    .pillar4{
+        margin: 23px -56px -6px -4px;
+    }
+
+}
